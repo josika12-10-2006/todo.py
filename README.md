@@ -1,2 +1,19 @@
-# todo.py
-A simple To-Do List application built using Python. It allows users to add, view, and delete tasks. This project demonstrates basic Python concepts like lists, loops, and functions.
+# To-Do List Application
+
+This is a simple To-Do List application built using Python.
+
+## Features
+- Add tasks
+- View tasks
+- Delete tasks
+
+## Technologies Used
+- Python
+
+## How to Run
+1. Open terminal or command prompt
+2. Run the file:
+   python todo.py
+
+## Author
+Josika T
